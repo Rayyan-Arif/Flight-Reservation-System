@@ -8,3 +8,5 @@ What It Includes:
 Key Features:
 1. Implemention of Concepts of Object-Oriented Programming
 2. Permanent Data_storage (File Handling)
+
+Admin Password = Admin1234
